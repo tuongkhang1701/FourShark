@@ -1,0 +1,93 @@
+/* @import url('https://fonts.googleapis.com/css?family=Gamja+Flower'); */
+html, body{
+    width: 100%;
+    height: 100%;
+    /* font-family: 'Gamja Flower'; */
+    font-size: 18px;
+    color: #222;
+}
+.navbar
+{
+    background-color: rgba(5, 1, 19, 0.925) !important;
+}
+.navbar li a{
+    color: white !important;
+}
+.navbar li a:hover{
+    color: 	rgb(225, 128, 9) !important;
+}
+.card-footer .product-device{
+    height: 100%;
+}
+.collapse .hide{
+    display: none;
+}
+
+.carousel-inner img{
+    width: 100%;
+    height: 10%;
+}
+.btn-outline-secondary{
+    width: 25%;
+    border: white;
+    margin-left: -1rem;
+}
+
+.btn-outline-secondary img{
+    width: 100%;
+}
+
+.btn-outline-secondary p{
+    width: 10%;
+}
+.btn-group{
+    max-width: 100%;
+    margin-left: 13em;
+}
+
+
+.btn-group img{
+    height: 25px;
+}
+.btn-group-xl jumbotron{
+    height: 50%;
+}
+.social a{
+    font-size: 3em;
+    padding: 3rem;
+}
+.fa-facebook{
+    color: #3B5998;
+}
+
+.fa-twitter{
+    color: #1DA1F2;
+}
+.fa-google-plus-g{
+    color: #F35022;
+}
+.fa-instagram{
+    color: #517fa4;
+}
+.fa-youtube{
+    color: #bb0000;
+}
+
+footer{
+    background-color: rgba(5, 1, 19, 0.925);
+}
+.row{
+    color: whitesmoke;
+}
+
+hr.light{
+    border-top: 1px solid #d5d5d5
+}
+
+footer p{
+    color: whitesmoke;
+}
+
+
+
+

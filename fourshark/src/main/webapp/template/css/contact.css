@@ -1,0 +1,46 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    /* font-family: 'Gamja Flower'; */
+    font-size: 18px;
+    color: #222;
+}
+
+.navbar
+{
+    background-color: rgba(5, 1, 19, 0.925) !important;
+}
+.navbar li a{
+    color: white !important;
+}
+.navbar li a:hover{
+    color:	rgb(225, 128, 9) !important;
+}
+
+.jumbotron{
+    background-color:	rgb(225, 128, 9);
+}
+.jumbotron h4{
+    font-family:cursive;
+    color: whitesmoke;
+}
+
+.map{
+    margin-left: 13%;
+}
+footer{
+    background-color: rgba(5, 1, 19, 0.925);
+    
+}
+.row{
+    color: whitesmoke;
+    max-width: 100%;
+}
+
+hr.light{
+    border-top: 1px solid #d5d5d5
+}
+
+footer p{
+    color: whitesmoke;
+}

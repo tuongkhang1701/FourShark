@@ -1,0 +1,24 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    color: #222;
+    background-image: inherit;
+}
+header navbar{
+    padding: 5rem;
+}
+.navbar
+{
+    background-color: rgba(5, 1, 19, 0.925) !important;
+}
+.navbar li a{
+    color: white !important;
+}
+
+.navbar .dropdown-menu{
+    background-color: rgba(5, 1, 19, 0.925) !important;
+}
+.navbar li a:hover{
+    color: 	rgb(225, 128, 9) !important;
+}
